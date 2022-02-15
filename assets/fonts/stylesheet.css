@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'AmberlySans';
+    src: url('fonts/AmberlySans-Medium.woff2') format('woff2'),
+        url('fonts/AmberlySans-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AmberlySans';
+    src: url('fonts/AmberlySans-Bold.woff2') format('woff2'),
+        url('fonts/AmberlySans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AmberlySans';
+    src: url('fonts/AmberlySans-Heavy.woff2') format('woff2'),
+        url('fonts/AmberlySans-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

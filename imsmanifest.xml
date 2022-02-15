@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="DC.DNAConsultoria.Trilha2.785919fa-264f-4ef9-a5e2-09f8b20de817" version="1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="DNA_Consultoria">
+    <organization identifier="DNA_Consultoria">
+      <title>Trilha 2</title>
+      <item identifier="item_DC.DNAConsultoria.Trilha2.785919fa-264f-4ef9-a5e2-09f8b20de817" identifierref="resource_DC.DNAConsultoria.Trilha2.785919fa-264f-4ef9-a5e2-09f8b20de817">
+        <title>Trilha 2</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+        <metadata>
+          <schema>ADL SCORM</schema>
+          <schemaversion>1.2</schemaversion>
+          <adlcp:location>metadata.xml</adlcp:location>
+        </metadata>
+      </item>
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+    </organization>
+  </organizations>
+  <resources>
+    <metadata>
+      <schema>ADL SCORM</schema>
+      <schemaversion>1.2</schemaversion>
+      <adlcp:location>metadata.xml</adlcp:location>
+    </metadata>
+    <resource identifier="resource_DC.DNAConsultoria.Trilha2.785919fa-264f-4ef9-a5e2-09f8b20de817" type="webcontent" href="index.html" adlcp:scormtype="sco">
+      <metadata>
+        <schema>ADL SCORM</schema>
+        <schemaversion>1.2</schemaversion>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <file href="assets/audio/audio-1.mp3"/>
+      <file href="assets/audio/audio-2.mp3"/>
+      <file href="assets/fonts/AmberlySans-Bold.woff"/>
+      <file href="assets/fonts/AmberlySans-Bold.woff2"/>
+      <file href="assets/fonts/AmberlySans-Heavy.woff"/>
+      <file href="assets/fonts/AmberlySans-Heavy.woff2"/>
+      <file href="assets/fonts/AmberlySans-Medium.woff"/>
+      <file href="assets/fonts/AmberlySans-Medium.woff2"/>
+      <file href="assets/fonts/demo.html"/>
+      <file href="assets/fonts/stylesheet.css"/>
+      <file href="assets/fonts/Ubuntu-Bold.ttf"/>
+      <file href="assets/fonts/Ubuntu-Italic.ttf"/>
+      <file href="assets/fonts/Ubuntu-Regular.ttf"/>
+      <file href="assets/img/2705.svg"/>
+      <file href="assets/img/2b1b.svg"/>
+      <file href="assets/img/accordion/white-arrow.png"/>
+      <file href="assets/img/bg-ano.png"/>
+      <file href="assets/img/bg-audio.png"/>
+      <file href="assets/img/bg-audio_mob.png"/>
+      <file href="assets/img/bg-blue.jpg"/>
+      <file href="assets/img/bg-blue.png"/>
+      <file href="assets/img/bg-computador.png"/>
+      <file href="assets/img/bg-footer.png"/>
+      <file href="assets/img/carrousel/blue-left.png"/>
+      <file href="assets/img/carrousel/blue-right.png"/>
+      <file href="assets/img/carrousel/green-left.png"/>
+      <file href="assets/img/carrousel/green-right.png"/>
+      <file href="assets/img/carrousel/red-left.png"/>
+      <file href="assets/img/carrousel/red-right.png"/>
+      <file href="assets/img/carrousel/yellow-left.png"/>
+      <file href="assets/img/carrousel/yellow-right.png"/>
+      <file href="assets/img/check/blue.png"/>
+      <file href="assets/img/check/green.png"/>
+      <file href="assets/img/check/red.png"/>
+      <file href="assets/img/check/yellow.png"/>
+      <file href="assets/img/compromissos.png"/>
+      <file href="assets/img/computador_base.png"/>
+      <file href="assets/img/computador_topo.png"/>
+      <file href="assets/img/desafio/blue.png"/>
+      <file href="assets/img/desafio/green.png"/>
+      <file href="assets/img/desafio/red.png"/>
+      <file href="assets/img/desafio/yellow.png"/>
+      <file href="assets/img/fechar.png"/>
+      <file href="assets/img/imgFinal.png"/>
+      <file href="assets/img/imgFinal_mob.png"/>
+      <file href="assets/img/list/blue.png"/>
+      <file href="assets/img/list/green.png"/>
+      <file href="assets/img/list/red.png"/>
+      <file href="assets/img/list/yellow.png"/>
+      <file href="assets/img/logo_carrefour.png"/>
+      <file href="assets/img/menu/blue.png"/>
+      <file href="assets/img/menu/green.png"/>
+      <file href="assets/img/menu/red.png"/>
+      <file href="assets/img/menu/yellow.png"/>
+      <file href="assets/img/menu_btn.png"/>
+      <file href="assets/img/menu_btn_fechar.png"/>
+      <file href="assets/img/minimizar.png"/>
+      <file href="assets/img/quizz/blue.png"/>
+      <file href="assets/img/quizz/green.png"/>
+      <file href="assets/img/quizz/red.png"/>
+      <file href="assets/img/quizz/yellow.png"/>
+      <file href="assets/img/txt-aquecimento.png"/>
+      <file href="assets/img/unidade-3/anel.png"/>
+      <file href="assets/img/unidade-3/txt_desafio.png"/>
+      <file href="assets/img/unidade-3/whatsapp.png"/>
+      <file href="assets/img/unidade-4/step-1-img.png"/>
+      <file href="assets/img/unidade6/txt_desafio.png"/>
+      <file href="assets/index.0d01e53a.js"/>
+      <file href="assets/index.c7bd7665.css"/>
+      <file href="assets/vendor.cdcc3426.js"/>
+      <file href="assets/video/test_video.mp4"/>
+      <file href="index.html"/>
+    </resource>
+  </resources>
+</manifest>
